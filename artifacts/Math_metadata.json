@@ -1,0 +1,47 @@
+{
+	"compiler": {
+		"version": "0.8.34+commit.80d5c536"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"title": "Aenzbi Math",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"notice": "Yul-optimized mathematical operations.",
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/utils/Math.sol": "Math"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/utils/Math.sol": {
+			"keccak256": "0x4a1391592580d58275b3565076191fda31c24b51af0d8fe75d45e61fe3163c08",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d8fa3784c8c8c9800e5815e45aad174606e07e9d09f8bf194a769d75b243be35",
+				"dweb:/ipfs/QmaN8KzJgGuiinHdnLfWH2Gk5cxNsRTxfwgGaf4KLwmTLr"
+			]
+		}
+	},
+	"version": 1
+}
